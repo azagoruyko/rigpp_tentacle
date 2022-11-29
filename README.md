@@ -2,6 +2,7 @@
 ![rigpp](https://user-images.githubusercontent.com/9614751/204641118-b946721b-31a2-4b1f-8ac0-aea2cfade702.PNG)<br>
 Youtube: https://www.youtube.com/watch?v=Cf9tlL81ecA
 
+# What is it
 This is a tentacle rig for Maya based on my rigging system called Rigpp. The rig is mostly for testing purposes to gather feedbacks, bugs and crashes from users.
 
 This rig evaluates an LLVM bitcode with a tentacle rig written in C++. No dependencies required, the module is in the MA file itself. 
