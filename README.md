@@ -1,6 +1,5 @@
 # Tentacle rig for Maya on Rigpp
-![rigpp](https://user-images.githubusercontent.com/9614751/204641118-b946721b-31a2-4b1f-8ac0-aea2cfade702.PNG)<br>
-Youtube: https://www.youtube.com/watch?v=Cf9tlL81ecA
+[![Watch the video](https://img.youtube.com/vi/RZKJnVI6_hI/0.jpg)](https://www.youtube.com/watch?v=RZKJnVI6_hI&ab_channel=AlexanderZagoruyko)
 
 # What is it
 This is a tentacle rig for Maya based on my rigging system called Rigpp. The rig is mostly for testing purposes to gather feedbacks, bugs and crashes from users.
