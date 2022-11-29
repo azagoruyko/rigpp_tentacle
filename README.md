@@ -8,9 +8,9 @@ This is a tentacle rig for Maya based on my rigging system called Rigpp. The rig
 This rig evaluates an LLVM bitcode with a tentacle rig written in C++. No dependencies required, the module is in the MA file itself. 
 
 ## How to open
-Use **Maya 2023.2**. Load rigpp.mll before openning the scene.
+Use **Maya 2023.2**. Load rigpp.mll before openning the scene. Skip an initial message informing to set RIGPP_RUNTIME environment variable.
 
-**It won't work for in any other Maya versions!** (like 2019, 2022)
+**It won't work in any other Maya versions!** (like 2019, 2022)
 
 ## Features
 Auto tangents, pins, twists, squash, auto swinging (waving). 
