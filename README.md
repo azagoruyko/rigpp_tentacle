@@ -4,6 +4,8 @@
 # What is it
 This is a tentacle rig for Maya based on my rigging system called Rigpp. The rig is mostly for testing purposes to gather feedbacks, bugs and crashes from users.
 
+What is Rigpp: https://www.youtube.com/watch?v=MypuC0p7yWE
+
 This rig evaluates an LLVM bitcode with a tentacle rig written in C++. No dependencies required, the module is in the MA file itself. 
 
 ## How to open
