@@ -14,7 +14,7 @@ Use **Maya 2023.2**. Load rigpp.mll before openning the scene. Skip an initial m
 **It won't work in any other Maya versions!** (like 2019, 2022)
 
 ## Features
-Auto tangents, pins, twists, squash, auto swinging (waving). 
+Auto tangents, pins, twists, squash, auto swinging (waving), reverse.
 
 All the available attributes are on the controls. 
 
